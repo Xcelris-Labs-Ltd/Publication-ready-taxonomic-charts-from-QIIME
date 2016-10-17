@@ -1,6 +1,6 @@
 __author__ = "Vijay Lakhujani, Project Scientist, Xcelris Labs"
 __copyright__ = "Copyright 2016, Xcelris Genomics"
-__license__ = "GPL"
+__license__ = "GPL v3.0"
 __version__ = "1.0"
 __maintainer__ = "Vijay Lakhujani"
 __email__ = "vijay.lakhujani@xcelrislabs.com"
