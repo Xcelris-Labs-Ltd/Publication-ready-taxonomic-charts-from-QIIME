@@ -6,4 +6,4 @@
      - Rename the files according to sample ids
      - Merges the pie charts and legends   
      
-#### Usage: merge_QIIME_images.py -p path to pie_charts.html -c path to charts folder -o output path final images
+#### Usage: _merge_QIIME_images.py -p path_to_pie_charts.html -c path to charts folder -o output path final images_
