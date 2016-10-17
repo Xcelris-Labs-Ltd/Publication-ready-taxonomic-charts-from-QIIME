@@ -1,6 +1,6 @@
 ## About the script:
      - This script parses the pie_chart.html file coming from 'plot_taxa_summary.py' script from QIIME 
-       for details, visit [this] link (http://qiime.org/scripts/plot_taxa_summary.html)
+       for details, visit [this](http://qiime.org/scripts/plot_taxa_summary.html) link.
      - Maps the pie chart and legend image names to corresponding samples.
      - Copies the files to user defined directory
      - Rename the files according to sample ids
