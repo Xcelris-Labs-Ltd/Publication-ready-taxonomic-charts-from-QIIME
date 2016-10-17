@@ -12,3 +12,7 @@
 - Merges the pie charts and legends   
      
 #### Usage: _merge_QIIME_images.py -p path_to_pie_charts.html -c path to charts folder -o output path final images_
+
+
+### License
+This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
