@@ -1,6 +1,6 @@
 __author__ = "Vijay Lakhujani, Project Scientist, Xcelris Labs"
 __copyright__ = "Copyright 2016, Xcelris Genomics"
-__license__ = "GPL v3.0"
+__license__ = "GPL"
 __version__ = "1.0"
 __maintainer__ = "Vijay Lakhujani"
 __email__ = "vijay.lakhujani@xcelrislabs.com"
@@ -18,30 +18,27 @@ About the script:
      
 Usage: "merge_QIIME_images.py -p <path to pie_charts.html> -c <path to charts folder> -o <output path final images>"
 
-Copyright (C) 2016  Vijay Lakhujani
+Copyright (C) 2016  Xcelris Labs Ltd. | www.xcelrisgenomics.com
 
-merge_QIIME_images.py is free software; you can redistribute it and/or
-modify it under the terms of the GNU General Public License
-as published by the Free Software Foundation; either version 2
-of the License, or (at your option) any later version.
+merge_QIIME_images.py program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License as published by the
+Free Software Foundation; either version 2 of the License, or (at your option)
+any later version.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+This program is distributed in the hope that it will be useful,but WITHOUT ANY
+WARRANTY; without even the implied warranty ofMERCHANTABILITY or FITNESS FOR A 
+PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with this program; if not, write to the Free Software
-Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+You should have received a copy of the GNU General Public License along with this
+program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street,
+Fifth Floor, Boston, MA  02110-1301, USA.
 
 
 Contact:
 =======
 email: vijay_lakhujani@xcelrislabs.com
-       chandan.badapanda@xcelrislabs.com
-       
 phone: +91 079-660-921-77
-fax: : +91-79-66309341
+fax:   +91-79-66309341
 '''
 
 #    Importing modules
@@ -201,7 +198,7 @@ for j in range(0,len(file_list)-1):
 
 #    Adjusting image offsets
             x_offset += im.size[1]-40
-            y_offset += 100
+            y_offset += 170
 
 #    Appending suffix "_final" in the output files
         result= file_list[j][:-4] + '_final.png'
