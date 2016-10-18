@@ -20,7 +20,7 @@ Usage: "merge_QIIME_images.py -p <path to pie_charts.html> -c <path to charts fo
 
 Copyright (C) 2016  Vijay Lakhujani
 
-This program is free software; you can redistribute it and/or
+merge_QIIME_images.py is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
 as published by the Free Software Foundation; either version 2
 of the License, or (at your option) any later version.
@@ -38,8 +38,10 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 Contact:
 =======
 email: vijay_lakhujani@xcelrislabs.com
+       chandan.badapanda@xcelrislabs.com
+       
 phone: +91 079-660-921-77
-
+fax: : +91-79-66309341
 '''
 
 #    Importing modules
