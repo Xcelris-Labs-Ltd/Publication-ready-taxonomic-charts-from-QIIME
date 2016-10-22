@@ -11,8 +11,13 @@
 
 - Merges the pie charts and legends   
      
-#### Usage: _merge_QIIME_images.py -p path_to_pie_charts.html -c path to charts folder -o output path final images_
+#### Usage: `merge_QIIME_images.py -p path_to_pie_charts.html -c path_to_charts_folder -o output_path_to_final_images`
 
+#### IMPORTANT NOTE:
+
+A prerequisite for merge_QIIME_images.py is that legend files should be generated in png format (default is pdf). This could be achieved by running the script plot_taxa_summary.py with the option -t/--type_of_file as png. Given below is an example:
+
+plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png
 
 ### License
 This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
