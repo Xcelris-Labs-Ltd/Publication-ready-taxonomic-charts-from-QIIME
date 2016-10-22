@@ -1,15 +1,14 @@
 #### About the script:
 
-This script parses the pie_chart.html file coming from 'plot_taxa_summary.py' script from QIIME 
-for details, visit http://qiime.org/scripts/plot_taxa_summary.html.
+This script parses the `pie_chart.html` file coming from `plot_taxa_summary.py` script from QIIME (for details, visit http://qiime.org/scripts/plot_taxa_summary.html.)
   
-Maps the pie chart and legend image names to corresponding samples.
+1.Maps the pie chart and legend image names to corresponding samples.
 
-Copies the files to user defined directory
+2.Copies the files to user defined directory
 
-Rename the files according to sample ids
+3.Rename the files according to sample ids
 
-Merges the pie charts and legends   
+4.Merges the pie charts and legends   
 
 #### Usage: `merge_QIIME_images.py -p path_to_pie_charts.html -c path_to_charts_folder -o output_path_to_final_images`
 
