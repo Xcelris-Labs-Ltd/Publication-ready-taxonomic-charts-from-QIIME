@@ -15,9 +15,9 @@
 
 #### IMPORTANT NOTE:
 
-A prerequisite for merge_QIIME_images.py is that legend files should be generated in png format (default is pdf). This could be achieved by running the script plot_taxa_summary.py with the option -t/--type_of_file as png. Given below is an example:
+A prerequisite for `merge_QIIME_images.py` is that legend files should be generated in png format (default is pdf). This could be achieved by running the script `plot_taxa_summary.py` with the option `-t/--type_of_file as png`. Given below is an example:
 
-plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png
+`plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png`
 
 ### License
 This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
