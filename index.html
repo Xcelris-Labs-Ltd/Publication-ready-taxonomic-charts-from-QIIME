@@ -48,6 +48,13 @@
 </ul>
 
 <h2>
+<a id="important-note" class="anchor" href="#important-note" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Important Note:</h2>
+
+<p>A prerequisite for <code>merge_QIIME_images.py</code> is that legend files should be generated in <code>png</code> format (default is pdf). This could be achieved by running the script <code>plot_taxa_summary.py</code> with the option <code>-t/--type_of_file</code> as <code>png</code>. Given below is an example:</p>
+
+<p><code>plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png</code></p>
+
+<h2>
 <a id="license" class="anchor" href="#license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h2>
 
 <p>This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007</p>
