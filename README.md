@@ -10,8 +10,6 @@ This script parses the `pie_chart.html` file coming from `plot_taxa_summary.py` 
 
 4.Merges the pie charts and legends   
 
-![alt tag](http://imgur.com/a/NNiRR)
-
 #### Usage:
 `merge_QIIME_images.py -p path_to_pie_charts.html -c path_to_charts_folder -o output_path_to_final_images`
 
