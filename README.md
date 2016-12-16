@@ -15,7 +15,7 @@ This script parses the `pie_chart.html` file coming from `plot_taxa_summary.py` 
 
 | S. No.        | Module        |
 | ------------- |:-------------:|
-| 1             |  fnmatch      |
+| 1             |  [fnmatch](https://docs.python.org/2/library/fnmatch.html)      |
 | 2             |    os         |
 | 3             | getopt        |
 | 4             | PIL           |
