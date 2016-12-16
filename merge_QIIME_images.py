@@ -36,9 +36,9 @@ Fifth Floor, Boston, MA  02110-1301, USA.
 
 Contact:
 =======
-email: vijay_lakhujani@xcelrislabs.com
-phone: +91 079-660-921-77
-fax:   +91-79-66309341
+Corresponding author: 
+E-mail-chandan.bioinfo@xcelrislabs.com;
+Tel: +91-79-66092177; Fax: +91-79-66309341
 '''
 
 #    Importing modules
