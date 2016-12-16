@@ -19,7 +19,7 @@ This script parses the `pie_chart.html` file coming from `plot_taxa_summary.py` 
 | 2             |    [os](https://docs.python.org/2/library/os.html)         |
 | 3             | [getopt](https://docs.python.org/2/library/getopt.html)        |
 | 4             | [PIL](http://www.pythonware.com/products/pil)           |
-| 5             | [re[(https://docs.python.org/2/library/re.html)            |
+| 5             | [re](https://docs.python.org/2/library/re.html)            |
 | 6             | [shutil](https://docs.python.org/2/library/shutil.html)        |
 | 7             | [sys](https://docs.python.org/2/library/sys.html)           |
 
