@@ -19,13 +19,31 @@
 
 * Merges the pie charts and legends
 
+## List of Python modules used
+| S. No.        | Module        | 
+| ------------- |:-------------:| 
+| 1             | [fnmatch](https://docs.python.org/2/library/fnmatch.html)
+| 2             | [getopt](https://docs.python.org/2/library/getopt.html)      |   
+| 3             | [os](https://docs.python.org/2/library/os.html)    |
+| 4             | [PIL](http://www.pythonware.com/products/pil)      |
+| 5             | [re](https://docs.python.org/2/library/re.html)      |
+| 6             | [shutil](https://docs.python.org/2/library/shutil.html)      |
+| 7             | [sys](https://docs.python.org/2/library/sys.html)      |
+
+
+
+
 ## Usage
 
  `python merge_QIIME_images.py -p pie_charts.html -c /charts_folder
 -o user_defined_output_folder`
 
 ## Important Note
-A prerequisite for `merge_QIIME_images.py` is that legend files should be generated in `png` format (default is pdf). This could be achieved by running the script `plot_taxa_summary.py` with the option `-t/--type_of_file` as `png`. Given below is an example:
+Prerequisites for `merge_QIIME_images.py`:
+
+1. Python v2.7
+
+2. Legend files should be generated in `png` format (default is pdf). This could be achieved by running the script `plot_taxa_summary.py` with the option `-t/--type_of_file` as `png`. Given below is an example:
 
 `plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png`
 
