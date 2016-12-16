@@ -2,7 +2,7 @@ title: Merge-qiime-images
 description: This repository contains the script, license and read_me file for merge_QIIME_images.py
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
