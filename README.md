@@ -24,6 +24,7 @@ This script parses the `pie_chart.html` file coming from `plot_taxa_summary.py` 
 | 5.             | [re](https://docs.python.org/2/library/re.html)            |
 | 6.             | [shutil](https://docs.python.org/2/library/shutil.html)        |
 | 7.             | [sys](https://docs.python.org/2/library/sys.html)           |
+| 8.             | [timeit](https://docs.python.org/2/library/timeit.html)           |
 
 
 
@@ -38,6 +39,8 @@ Prerequisites for `merge_QIIME_images.py`
 2. The legend files should be generated in png format (default is pdf). This could be achieved by running the script `plot_taxa_summary.py` with the option `-t/--type_of_file as png`. Given below is an example:
 
 `plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png`
+
+** Note: High resolution images can be generated using the -d, --dpi option for the script plot_taxa_summary.py.
 
 #### License
 This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
