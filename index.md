@@ -60,7 +60,7 @@ Prerequisites for `merge_QIIME_images.py`:
 
 `plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png`
 
-** Note: High resolution images can be generated using the `-d`, `--dpi` option for the script plot_taxa_summary.py. See below example (setting the dpi to 100 produce good quality images):
+** Note: High resolution images can be generated using the `-d`, `--dpi` option for the script `plot_taxa_summary.py`. See below example (setting the dpi to 100 produce good quality images):
 
 `plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png -d 100`
 
