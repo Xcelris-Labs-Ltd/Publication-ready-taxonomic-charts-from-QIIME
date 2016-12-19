@@ -11,7 +11,7 @@ Welcome to Xcelris Labs Ltd. GitHub Pages (by Bioinformatics division)
 
 ---
 
-#About merge_QIIME_images.py
+# About merge_QIIME_images.py
 
 ![]( https://httpsimage.com/img/flowchart4.png)
 
