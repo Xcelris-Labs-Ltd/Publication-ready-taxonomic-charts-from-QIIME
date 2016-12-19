@@ -1,7 +1,7 @@
 ![](http://www.xcelrislabs.com/Images/Xcelris-An-Abellon-Company-Logo.png)
 
 
-## We make DNA speak..
+## _We make DNA speak.._
 ## Welcome to Xcelris Labs Ltd. GitHub Pages (by Bioinformatics division)
 
 ## About merge_QIIME_images.py
@@ -24,16 +24,28 @@
  `python merge_QIIME_images.py -p pie_charts.html -c /charts_folder
 -o user_defined_output_folder`
 
+## List of Python modules used
+1. fnmatch
+2. getopt
+3. os
+4. PIL
+5. shutil
+6. sys
+7. re
+ 
+
 ## Important Note
 Prerequisites for `merge_QIIME_images.py`:
 
-1. Python v2.7
+1. Python v2.7. The program will not work with Python v3. Python v2.7 was chosen as it is stable.
 
 2. Legend files should be generated in `png` format (default is pdf). This could be achieved by running the script `plot_taxa_summary.py` with the option `-t/--type_of_file` as `png`. Given below is an example:
 
 `plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png`
 
-##License
+** Note: High resolution images can be generated using the `-d`, `--dpi` option for the script `plot_taxa_summary.py`.
+
+## License
 This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
 
 ## Development and Maintenance
