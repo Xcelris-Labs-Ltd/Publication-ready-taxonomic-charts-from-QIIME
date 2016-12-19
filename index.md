@@ -26,13 +26,13 @@ About merge_QIIME_images.py
 * Merges the pie charts and legends
 
 ---
-Usage
+_Usage_
 
  `python merge_QIIME_images.py -p pie_charts.html -c /charts_folder
 -o user_defined_output_folder`
 
 ---
-List of Python modules used
+_List of Python modules used_
 
 1. [fnmatch](https://docs.python.org/2/library/fnmatch.html)
 2. [getopt](https://docs.python.org/2/library/getopt.html)
@@ -44,7 +44,7 @@ List of Python modules used
  
 
 ---
-Important Note
+_Important Note_
 
 Prerequisites for `merge_QIIME_images.py`:
 
@@ -57,12 +57,12 @@ Prerequisites for `merge_QIIME_images.py`:
 ** Note: High resolution images can be generated using the `-d`, `--dpi` option for the script `plot_taxa_summary.py`.
 
 ---
-License
+_License_
 
 This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
 
 ---
-Development and Maintenance
+_Development and Maintenance_
 
 Developed by - Vijay Lakhujani
 
@@ -71,7 +71,7 @@ vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
 Maintained by @Xcelris-Labs-Ltd on GitHub.
 
 ---
-Correspondance
+_Correspondance_
 
 chandan.badapanda@xcelrislabs.com **[Associate General Manager, Bioinformatics]**
 
