@@ -1,15 +1,19 @@
 ![](http://www.xcelrislabs.com/Images/Xcelris-An-Abellon-Company-Logo.png)
 
+> #### _We make DNA speak.._
 
-## _We make DNA speak.._
+
+
+
+
+---
 ## Welcome to Xcelris Labs Ltd. GitHub Pages (by Bioinformatics division)
-
+---
 ## About merge_QIIME_images.py
 
 ![]( https://httpsimage.com/img/flowchart4.png)
 
-
-* This script parses the pie_chart.html file (output from [plot_taxa_summary.py](http://qiime.org/scripts/plot_taxa_summary.html))
+* This script parses the pie_chart.html file (output from [`plot_taxa_summary.py`](http://qiime.org/scripts/plot_taxa_summary.html))
 
 * Maps the pie chart and legend image names to corresponding samples.
 
@@ -25,13 +29,13 @@
 -o user_defined_output_folder`
 
 ## List of Python modules used
-1. fnmatch
-2. getopt
-3. os
-4. PIL
-5. shutil
-6. sys
-7. re
+1. [fnmatch](https://docs.python.org/2/library/fnmatch.html)
+2. [getopt](https://docs.python.org/2/library/getopt.html)
+3. [os](https://docs.python.org/2/library/os.html)
+4. [PIL](http://www.pythonware.com/products/pil)
+5. [shutil](https://docs.python.org/2/library/shutil.html)
+6. [sys](https://docs.python.org/2/library/sys.html)
+7. [re](https://docs.python.org/2/library/re.html)
  
 
 ## Important Note
