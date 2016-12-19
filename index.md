@@ -7,11 +7,11 @@
 
 
 ---
-Welcome to Xcelris Labs Ltd. GitHub Pages (by Bioinformatics division)
+# Welcome to Xcelris Labs Ltd. GitHub Pages (by Bioinformatics division)
 
 ---
 
-# About merge_QIIME_images.py
+## About merge_QIIME_images.py
 
 ![]( https://httpsimage.com/img/flowchart4.png)
 
@@ -26,13 +26,13 @@ Welcome to Xcelris Labs Ltd. GitHub Pages (by Bioinformatics division)
 * Merges the pie charts and legends
 
 ---
-_Usage_
+## Usage
 
  `python merge_QIIME_images.py -p pie_charts.html -c /charts_folder
 -o user_defined_output_folder`
 
 ---
-_List of Python modules used_
+## List of Python modules used 
 
 1. [fnmatch](https://docs.python.org/2/library/fnmatch.html)
 2. [getopt](https://docs.python.org/2/library/getopt.html)
@@ -44,7 +44,7 @@ _List of Python modules used_
  
 
 ---
-_Important Note_
+## Important Note
 
 Prerequisites for `merge_QIIME_images.py`:
 
@@ -57,12 +57,12 @@ Prerequisites for `merge_QIIME_images.py`:
 ** Note: High resolution images can be generated using the `-d`, `--dpi` option for the script `plot_taxa_summary.py`.
 
 ---
-_License_
+## License
 
 This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
 
 ---
-_Development and Maintenance_
+## Development and Maintenance
 
 Developed by - Vijay Lakhujani
 
@@ -71,7 +71,7 @@ vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
 Maintained by @Xcelris-Labs-Ltd on GitHub.
 
 ---
-_Correspondance_
+## Correspondance
 
 chandan.badapanda@xcelrislabs.com **[Associate General Manager, Bioinformatics]**
 
