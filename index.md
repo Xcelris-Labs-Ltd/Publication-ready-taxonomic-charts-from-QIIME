@@ -1,10 +1,10 @@
 ![](http://www.xcelrislabs.com/Images/Xcelris-An-Abellon-Company-Logo.png)
 
 
-####_We make DNA speak.._
+## We make DNA speak..
 ## Welcome to Xcelris Labs Ltd. GitHub Pages (by Bioinformatics division)
 
-##About merge_QIIME_images.py
+## About merge_QIIME_images.py
 
 ![]( https://httpsimage.com/img/flowchart4.png)
 
@@ -18,20 +18,6 @@
 * Rename the files according to sample ids
 
 * Merges the pie charts and legends
-
-## List of Python modules used
-| S. No.        | Module        | 
-| ------------- |:-------------:| 
-| 1             | [fnmatch](https://docs.python.org/2/library/fnmatch.html)
-| 2             | [getopt](https://docs.python.org/2/library/getopt.html)      |   
-| 3             | [os](https://docs.python.org/2/library/os.html)    |
-| 4             | [PIL](http://www.pythonware.com/products/pil)      |
-| 5             | [re](https://docs.python.org/2/library/re.html)      |
-| 6             | [shutil](https://docs.python.org/2/library/shutil.html)      |
-| 7             | [sys](https://docs.python.org/2/library/sys.html)      |
-
-
-
 
 ## Usage
 
