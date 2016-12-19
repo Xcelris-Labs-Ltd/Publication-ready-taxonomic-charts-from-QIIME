@@ -14,7 +14,7 @@
 
 ---
 
-## About merge_QIIME_images.py
+## *About merge_QIIME_images.py*
 
 ![]( https://httpsimage.com/img/flowchart4.png)
 
