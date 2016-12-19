@@ -68,8 +68,6 @@ vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
 
 Maintained by @Xcelris-Labs-Ltd on GitHub.
 
-***
-
 ---
 Correspondance
 
