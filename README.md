@@ -1,3 +1,5 @@
+
+
 #### About the script:
 
 This script parses the `pie_chart.html` file coming from `plot_taxa_summary.py` script from QIIME (for details, visit http://qiime.org/scripts/plot_taxa_summary.html.) and do the following:
@@ -42,3 +44,24 @@ This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
 
 #### Author:
 Vijay Lakhujani  (c) 2016 | Xcleris Labs Ltd.
+
+
+
+                              __  __        _      _       _          _           _    _      _     
+                              \ \/ /___ ___| |_ __(_)___  | |    __ _| |__  ___  | |  | |_ __| |    
+                               \  // __/ _ \ | '__| / __| | |   / _` | '_ \/ __| | |  | __/ _` |    
+                               /  \ (_|  __/ | |  | \__ \ | |__| (_| | |_) \__ \ | |__| || (_| |  _ 
+                              /_/\_\___\___|_|_|  |_|___/ |_____\__,_|_.__/|___/ |_____\__\__,_| (_)
+                              
+                                __        __                     _          ____  _   _    _    
+                                \ \      / /__   _ __ ___   __ _| | _____  |  _ \| \ | |  / \   
+                                 \ \ /\ / / _ \ | '_ ` _ \ / _` | |/ / _ \ | | | |  \| | / _ \  
+                                  \ V  V /  __/ | | | | | | (_| |   <  __/ | |_| | |\  |/ ___ \ 
+                                   \_/\_/ \___| |_| |_| |_|\__,_|_|\_\___| |____/|_| \_/_/   \_\
+
+                      _                
+                                                 ___ _ __   ___  __ _| | __            
+                                                / __| '_ \ / _ \/ _` | |/ /            
+                                                \__ \ |_) |  __/ (_| |   <   _   _   _ 
+                                                |___/ .__/ \___|\__,_|_|\_\ (_) (_) (_)
+                                                    |_| 
