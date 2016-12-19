@@ -14,7 +14,7 @@
 
 ---
 
-## *About merge_QIIME_images.py*
+## *About merge_QIIME_images.py: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME*
 
 ![]( https://httpsimage.com/img/flowchart4.png)
 
@@ -46,6 +46,7 @@
 5. [shutil](https://docs.python.org/2/library/shutil.html)
 6. [sys](https://docs.python.org/2/library/sys.html)
 7. [re](https://docs.python.org/2/library/re.html)
+8. [timeit](https://docs.python.org/2/library/timeit.html)
  
 
 ---
