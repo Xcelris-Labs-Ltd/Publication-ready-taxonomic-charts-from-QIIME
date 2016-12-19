@@ -58,7 +58,7 @@ Fifth Floor, Boston, MA  02110-1301, USA.
 Contact:
 =======
 Corresponding author: 
-E-mail-chandan.bioinfo@xcelrislabs.com;
+E-mail-chandan.badapanda@xcelrislabs.com;
 Tel: +91-79-66092177; Fax: +91-79-66309341
 '''
 
