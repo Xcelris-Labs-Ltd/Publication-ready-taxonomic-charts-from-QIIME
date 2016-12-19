@@ -14,7 +14,7 @@
 
 ---
 
-## *merge_QIIME_images.py*: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME
+### *merge_QIIME_images.py*: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME
 
 ![]( https://httpsimage.com/img/flowchart4.png)
 
