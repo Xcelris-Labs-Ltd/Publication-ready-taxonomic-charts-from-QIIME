@@ -14,7 +14,7 @@
 
 ---
 
-### *merge_QIIME_images.py*: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME
+### *prepare_taxa_charts.py*: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME
 
 ![]( https://httpsimage.com/img/flowchart4.png)
 
@@ -32,7 +32,7 @@
 
 ## Usage
 
- `python merge_QIIME_images.py -p pie_charts.html -c /charts_folder
+ `python prepare_taxa_charts.py -p pie_charts.html -c /charts_folder
 -o user_defined_output_folder`
 
 ---
@@ -53,7 +53,7 @@
 
 ## Important Note
 
-Prerequisites for `merge_QIIME_images.py`:
+Prerequisites for `prepare_taxa_charts.py`:
 
 1. Python v2.7. The program will not work with Python v3. Python v2.7 was chosen as it is stable.
 
