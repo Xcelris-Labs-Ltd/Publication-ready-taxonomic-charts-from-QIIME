@@ -13,7 +13,7 @@ This script parses the `pie_chart.html` file coming from `plot_taxa_summary.py` 
 4.Merges the pie charts and legends   
 
 
-#### List of Python modules used in `merge_QIIME_images.py`
+#### List of Python modules used in `prepare_taxa_charts.py`
 
 | S. No.        | Module        |
 | ------------- |:-------------:|
@@ -29,10 +29,10 @@ This script parses the `pie_chart.html` file coming from `plot_taxa_summary.py` 
 
 
 #### Usage:
-`merge_QIIME_images.py -p path_to_pie_charts.html -c path_to_charts_folder -o output_path_to_final_images`
+`prepare_taxa_charts.py -p path_to_pie_charts.html -c path_to_charts_folder -o output_path_to_final_images`
 
 #### Important Note:
-Prerequisites for `merge_QIIME_images.py`
+Prerequisites for `prepare_taxa_charts.py`
 
 1. Python version 2.7
 
