@@ -1,4 +1,4 @@
-       merge_QIIME_images.py is released under GNU GENERAL PUBLIC LICENSE. Below are the terms and conditions.
+       prepare_taxa_charts.py is released under GNU GENERAL PUBLIC LICENSE. Below are the terms and conditions.
 
                                                  GNU GENERAL PUBLIC LICENSE
                                                   Version 3, 29 June 2007
