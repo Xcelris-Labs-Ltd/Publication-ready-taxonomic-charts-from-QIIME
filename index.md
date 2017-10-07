@@ -27,6 +27,7 @@
 * Rename the files according to sample ids
 
 * Merges the pie charts and legends
+
 ---
 
 ## Usage
@@ -40,8 +41,8 @@ python prepare_taxa_charts.py -p pie_charts.html -c /charts_folder -o user_defin
 
 | S. No.        | Module        |
 | ------------- |:-------------:|
-| 1.             |  [fnmatch](https://docs.python.org/2/library/fnmatch.html)      |
-| 2.             |    [os](https://docs.python.org/2/library/os.html)         |
+| 1.             | [fnmatch](https://docs.python.org/2/library/fnmatch.html)      |
+| 2.             | [os](https://docs.python.org/2/library/os.html)         |
 | 3.             | [getopt](https://docs.python.org/2/library/getopt.html)        |
 | 4.             | [PIL](http://www.pythonware.com/products/pil)           |
 | 5.             | [re](https://docs.python.org/2/library/re.html)            |
@@ -92,7 +93,7 @@ Maintained by @Xcelris-Labs-Ltd on GitHub.
 [_prepare_taxa_charts.py: A Python program to automate generation of publication ready taxonomic pie chart images from QIIME._](http://www.sciencedirect.com/science/article/pii/S2213596016302070)
 
 ## Citing
-Please cite:
+**Please cite:**
 Lakhujani, V. and Badapanda, C., 2017. prepare_taxa_charts. py: A Python program to automate generation of publication ready taxonomic pie chart images from QIIME. Genomics Data, 12, pp.97-101.
 
 
