@@ -31,9 +31,9 @@
 
 ## Usage
 
- `python prepare_taxa_charts.py -p pie_charts.html -c /charts_folder
--o user_defined_output_folder`
-
+```python
+python prepare_taxa_charts.py -p pie_charts.html -c /charts_folder -o user_defined_output_folder
+```
 ---
 
 ## List of Python modules used 
@@ -58,12 +58,15 @@ Prerequisites for `prepare_taxa_charts.py`:
 
 2. Legend files should be generated in `png` format (default is pdf). This could be achieved by running the script `plot_taxa_summary.py` with the option `-t/--type_of_file` as `png`. Given below is an example:
 
-`plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png`
+```python
+plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png
+```
 
 ** Note: High resolution images can be generated using the `-d`, `--dpi` option for the script `plot_taxa_summary.py`. See below example (setting the dpi to 100 produce good quality images):
 
-`plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png -d 100`
-
+```python
+plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png -d 100`
+```
 ---
 
 ## License
