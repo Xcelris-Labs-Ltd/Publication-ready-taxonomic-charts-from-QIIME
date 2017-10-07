@@ -8,7 +8,7 @@
 
 ---
 
-# Welcome to Xcelris Labs Ltd. GitHub Pages
+## Welcome to Xcelris Labs Ltd. GitHub Pages
 
 ###            (by Bioinformatics division)
 
@@ -65,7 +65,7 @@ plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png
 ** Note: High resolution images can be generated using the `-d`, `--dpi` option for the script `plot_taxa_summary.py`. See below example (setting the dpi to 100 produce good quality images):
 
 ```python
-plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png -d 100`
+plot_taxa_summary.py -i phylum.txt -l phylum -c pie -o phylum_charts/ -t png -d 100
 ```
 ---
 
