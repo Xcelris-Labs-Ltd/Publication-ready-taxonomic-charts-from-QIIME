@@ -95,7 +95,7 @@ Lakhujani, V. and Badapanda, C., 2017. prepare_taxa_charts. py: A Python program
 
 
 ## Correspondance
-![Dr Chandan Badapanda](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/vijay1.jpg "Vijay Lakhujani")
+![Dr Chandan Badapanda](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/chandan2.jpg "Dr Chandan Badapanda")
 chandan.badapanda@xcelrislabs.com **[Associate General Manager, Bioinformatics]**
 
 [Xcelris Labs Ltd. &#169;](http://www.xcelrisgenomics.com/ContactUs.html)
