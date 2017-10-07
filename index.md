@@ -14,7 +14,7 @@
 
 ---
 
-## _**prepare_taxa_charts.py_: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME**
+# _prepare_taxa_charts.py_: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME
 
 ![Flowchart of the overall programmatic solution]( https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/flowchart4.png)
 
