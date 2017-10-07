@@ -89,7 +89,7 @@ Maintained by @Xcelris-Labs-Ltd on GitHub.
 ---
 
 ## Publication
-[prepare_taxa_charts.py: A Python program to automate generation of publication ready taxonomic pie chart images from QIIME.](http://www.sciencedirect.com/science/article/pii/S2213596016302070)
+[_prepare_taxa_charts.py: A Python program to automate generation of publication ready taxonomic pie chart images from QIIME._](http://www.sciencedirect.com/science/article/pii/S2213596016302070)
 
 ## Citing
 Please cite:
