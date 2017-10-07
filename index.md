@@ -39,8 +39,8 @@ python prepare_taxa_charts.py -p pie_charts.html -c /charts_folder -o user_defin
 
 ## List of Python modules used 
 
-Sr. No. | Module
---- | --- 
+Sr. No.          | Module
+---              | --- 
 | 1.             | [fnmatch](https://docs.python.org/2/library/fnmatch.html) 
 | 2.             | [os](https://docs.python.org/2/library/os.html)           
 | 3.             | [getopt](https://docs.python.org/2/library/getopt.html)   
