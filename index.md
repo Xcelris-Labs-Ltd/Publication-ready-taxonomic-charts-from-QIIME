@@ -14,7 +14,7 @@
 
 ---
 
-### *prepare_taxa_charts.py*: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME
+## *prepare_taxa_charts.py*: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME
 
 ![]( https://httpsimage.com/img/flowchart4.png)
 
@@ -75,7 +75,7 @@ This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
 
 ## Development and Maintenance
 
-Developed by - Vijay Lakhujani
+Developed by - [Vijay Lakhujani](https://in.linkedin.com/in/lakhujanivijay)
 
 vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
 
@@ -84,7 +84,7 @@ Maintained by @Xcelris-Labs-Ltd on GitHub.
 ---
 
 ## Publication
-prepare_taxa_charts.py: A Python program to automate generation of publication ready taxonomic pie chart images from QIIME.
+[prepare_taxa_charts.py: A Python program to automate generation of publication ready taxonomic pie chart images from QIIME.](http://www.sciencedirect.com/science/article/pii/S2213596016302070)
 
 ## Citing
 Please cite:
