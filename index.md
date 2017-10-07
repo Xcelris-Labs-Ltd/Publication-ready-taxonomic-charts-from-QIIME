@@ -14,7 +14,8 @@
 
 ---
 
-## *prepare_taxa_charts.py*: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME
+## 
+**prepare_taxa_charts.py: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME**
 
 ![Flowchart of the overall programmatic solution]( https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/flowchart4.png)
 
@@ -41,14 +42,14 @@ python prepare_taxa_charts.py -p pie_charts.html -c /charts_folder -o user_defin
 
 | S. No.        | Module        |
 | ------------- |:-------------:|
-| 1.             | [fnmatch](https://docs.python.org/2/library/fnmatch.html)      |
-| 2.             | [os](https://docs.python.org/2/library/os.html)         |
-| 3.             | [getopt](https://docs.python.org/2/library/getopt.html)        |
-| 4.             | [PIL](http://www.pythonware.com/products/pil)           |
-| 5.             | [re](https://docs.python.org/2/library/re.html)            |
-| 6.             | [shutil](https://docs.python.org/2/library/shutil.html)        |
-| 7.             | [sys](https://docs.python.org/2/library/sys.html)           |
-| 8.             | [timeit](https://docs.python.org/2/library/timeit.html)           |
+| 1.             | [fnmatch](https://docs.python.org/2/library/fnmatch.html) |
+| 2.             | [os](https://docs.python.org/2/library/os.html)           |
+| 3.             | [getopt](https://docs.python.org/2/library/getopt.html)   |
+| 4.             | [PIL](http://www.pythonware.com/products/pil)             |
+| 5.             | [re](https://docs.python.org/2/library/re.html)           |
+| 6.             | [shutil](https://docs.python.org/2/library/shutil.html)   |
+| 7.             | [sys](https://docs.python.org/2/library/sys.html)         |
+| 8.             | [timeit](https://docs.python.org/2/library/timeit.html)   |
 
 ---
 
