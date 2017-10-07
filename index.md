@@ -16,7 +16,7 @@
 
 ## *prepare_taxa_charts.py*: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME
 
-![]( https://httpsimage.com/img/flowchart4.png)
+![]( https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/flowchart4.png)
 
 * This script parses the pie_chart.html file (output from [`plot_taxa_summary.py`](http://qiime.org/scripts/plot_taxa_summary.html))
 
@@ -27,7 +27,6 @@
 * Rename the files according to sample ids
 
 * Merges the pie charts and legends
-
 ---
 
 ## Usage
