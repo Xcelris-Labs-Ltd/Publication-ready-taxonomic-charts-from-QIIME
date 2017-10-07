@@ -78,6 +78,7 @@ This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
 ## Development and Maintenance
 
 ![Vijay Lakhujani](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/vijay1.jpg "Vijay Lakhujani")
+
 Developed by - [Vijay Lakhujani](https://in.linkedin.com/in/lakhujanivijay)
 
 vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
@@ -96,6 +97,7 @@ Lakhujani, V. and Badapanda, C., 2017. prepare_taxa_charts. py: A Python program
 
 ## Correspondance
 ![Dr Chandan Badapanda](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/chandan2.jpg "Dr Chandan Badapanda")
+
 chandan.badapanda@xcelrislabs.com **[Associate General Manager, Bioinformatics]**
 
 [Xcelris Labs Ltd. &#169;](http://www.xcelrisgenomics.com/ContactUs.html)
