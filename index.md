@@ -80,7 +80,7 @@ This script is released under [GNU GENERAL PUBLIC LICENSE](https://github.com/Xc
 
 ## Development and Maintenance
 
-![Vijay Lakhujani](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/vijay1.jpg)
+![Vijay Lakhujani](https://raw.githubusercontent.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/gh-pages/vijay1.jpg)
 
 
 **Developed by -** [**Vijay Lakhujani**](https://in.linkedin.com/in/lakhujanivijay)
