@@ -99,9 +99,6 @@ Maintained by @Xcelris-Labs-Ltd on GitHub.
 _Lakhujani, V. and Badapanda, C., 2017. prepare_taxa_charts. py: A Python program to automate generation of publication ready taxonomic pie chart images from QIIME. Genomics Data, 12, pp.97-101._
 
 
-## Correspondance
-chandan.badapanda@xcelrislabs.com 
-
 ## Some noise on Twitter about the work
 
 ![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/twitter.PNG?raw=true "Tweets")
