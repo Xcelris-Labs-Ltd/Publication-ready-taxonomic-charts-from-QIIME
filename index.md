@@ -105,6 +105,6 @@ chandan.badapanda@xcelrislabs.com **[Associate General Manager, Bioinformatics]*
 
 ## Some noise on Twitter about the work
 
-![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/vijay1.jpg "Vijay Lakhujani")
+![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/twitter.PNG "Tweets")
 
 [Xcelris Labs Ltd. &#169;](http://www.xcelrisgenomics.com/ContactUs.html)
