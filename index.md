@@ -104,6 +104,6 @@ chandan.badapanda@xcelrislabs.com
 
 ## Some noise on Twitter about the work
 
-![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/twitter.PNG "Tweets")
+![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/twitter.PNG?raw=true "Tweets")
 
 [Xcelris Labs Ltd. &#169;](http://www.xcelrisgenomics.com/ContactUs.html)
