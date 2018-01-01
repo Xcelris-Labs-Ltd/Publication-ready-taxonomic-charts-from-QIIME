@@ -4,7 +4,7 @@ __copyright__ = "Copyright 2016, Xcelris Labs Ltd."
 __license__ = "GPL"
 __version__ = "1.0"
 __status__ = "Complete"
-__email__="chandan.badapanda@xcelrislabs.com"
+__email__="vijay.lakhujani@xcelrislabs.com"
 
 
 '''
