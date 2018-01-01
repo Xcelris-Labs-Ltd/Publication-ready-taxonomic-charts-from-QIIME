@@ -1,4 +1,4 @@
-![](http://www.xcelrislabs.com/Images/Xcelris-An-Abellon-Company-Logo.png)
+![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/Xcelris%20New%20Logo%20Png%20file.png?raw=true)
 
 > #### _We make DNA speak.._
 
