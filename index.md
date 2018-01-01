@@ -1,4 +1,4 @@
-![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/Xcelris%20New%20Logo%20Png%20file.png?raw=true)
+![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/xcelris-new-logo-png-file.png?raw=true)
 
 > #### _We make DNA speak.._
 
