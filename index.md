@@ -1,4 +1,4 @@
-![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/xcelris-new-logo-png-file.png?raw=true)
+![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/xcelris-new-logo-png-file.png?raw=true)
 
 
 
@@ -15,7 +15,7 @@
 
 # _prepare_taxa_charts.py_: Ultrafast program to generate publication ready taxonomic pie chart images from QIIME
 
-![]( https://raw.githubusercontent.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/gh-pages/flowchart3.png "Flowchart of the overall programmatic solution")
+![]( https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/program_flowchart.png?raw=true "Flowchart of the overall programmatic solution")
 
 * This script parses the pie_chart.html file (output from [`plot_taxa_summary.py`](http://qiime.org/scripts/plot_taxa_summary.html))
 
@@ -79,7 +79,7 @@ This script is released under [GNU GENERAL PUBLIC LICENSE](https://github.com/Xc
 
 ## Development and Maintenance
 
-![Vijay Lakhujani](https://raw.githubusercontent.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/gh-pages/vijay1.jpg)
+![Vijay Lakhujani](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/vijay_lakhujani.jpg?raw=true)
 
 
 **Developed by -** [**Vijay Lakhujani**](https://in.linkedin.com/in/lakhujanivijay)
@@ -100,6 +100,6 @@ _Lakhujani, V. and Badapanda, C., 2017. prepare_taxa_charts. py: A Python progra
 
 ## Some noise on Twitter about the work
 
-![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/twitter.PNG?raw=true "Tweets")
+![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/twitter.PNG?raw=true "Tweets")
 
 [Xcelris Labs Ltd. &#169;](http://www.xcelrisgenomics.com/ContactUs.html)
