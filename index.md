@@ -86,6 +86,24 @@ This script is released under [GNU GENERAL PUBLIC LICENSE](https://github.com/Xc
 
 vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
 
+**Let's connect!**
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: https://www.bklynlibrary.org/sites/all/themes/bklyn/img/simple_icons_black/LinkedIn.png (google plus icon with padding)
+
+[1]: http://www.twitter.com/vijay_lakhujani
+[2]: http://www.facebook.com/mylifepages
+[3]: https://plus.google.com/+VIJAYLAKHUJANI
+[4]: https://in.linkedin.com/in/lakhujanivijay
+
+
 Maintained by @Xcelris-Labs-Ltd on GitHub.
 
 ---
@@ -103,3 +121,4 @@ _Lakhujani, V. and Badapanda, C., 2017. prepare_taxa_charts. py: A Python progra
 ![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/twitter.PNG?raw=true "Tweets")
 
 [Xcelris Labs Ltd. &#169;](http://www.xcelrisgenomics.com/ContactUs.html)
+
