@@ -99,13 +99,12 @@ vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: https://www.bklynlibrary.org/sites/all/themes/bklyn/img/simple_icons_black/LinkedIn.png (linkedin icon)
-[5.1]: https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/if_gmail_A_104849.png?raw=true (gmail icon)
+
 
 [1]: http://www.twitter.com/vijay_lakhujani
 [2]: http://www.facebook.com/mylifepages
 [3]: https://plus.google.com/+VIJAYLAKHUJANI
 [4]: https://in.linkedin.com/in/lakhujanivijay
-[5]: mailto:lakhujanivijay@gmail.com
 
 
 Maintained by @Xcelris-Labs-Ltd on GitHub.
