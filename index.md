@@ -93,8 +93,6 @@ vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 
-
-
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
