@@ -96,7 +96,7 @@ vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: https://www.bklynlibrary.org/sites/all/themes/bklyn/img/simple_icons_black/LinkedIn.png (linkedin icon)
+[4.1]: https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/LinkedIn.png?raw=true (linkedin icon)
 
 
 [1]: http://www.twitter.com/vijay_lakhujani
