@@ -87,6 +87,7 @@ This script is released under [GNU GENERAL PUBLIC LICENSE](https://github.com/Xc
 vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
 
 **Let's connect!**
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
