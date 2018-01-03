@@ -92,7 +92,6 @@ vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
-[![alt text][5.1]][5]
 
 
 
