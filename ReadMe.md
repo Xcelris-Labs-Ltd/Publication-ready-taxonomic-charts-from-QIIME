@@ -52,5 +52,6 @@ This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
 #### Author:
 Vijay Lakhujani  (c) 2016 | Xcleris Labs Ltd.
 
-
+#### Full Details
+Click [here](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/index.md)
 
