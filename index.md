@@ -54,7 +54,7 @@ python prepare_taxa_charts.py -p pie_charts.html -c /charts_folder -o user_defin
 
 ## Important Note
 
-Prerequisites for `[prepare_taxa_charts.py](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/prepare_taxa_charts.py)`:
+Prerequisites for `prepare_taxa_charts.py`:
 
 1. Python v2.7. The program will not work with Python v3. Python v2.7 was chosen as it is stable.
 
