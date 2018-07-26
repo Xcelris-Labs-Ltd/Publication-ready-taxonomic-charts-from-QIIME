@@ -2,7 +2,7 @@ title: Publication-ready-taxonomic-charts-from-QIIME
 description: This repository contains the script, license and read_me file for prepare_taxa_charts.py
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-dinky
 
 gems:
   - jekyll-mentions
