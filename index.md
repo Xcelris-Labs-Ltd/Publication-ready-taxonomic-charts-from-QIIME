@@ -119,7 +119,7 @@ _Lakhujani, V. and Badapanda, C., 2017. prepare_taxa_charts. py: A Python progra
 
 ## Official entry for poster presentation
 
-The work was formally presented as [scientific poster](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/cdac-poster_04_dec_2017.png) in *[Accelerating biology-2018](https://cdac.in/index.aspx?id=ev_symposium_2018)* symposium held during Jan, 9-11, 2018 at [C-DAC](https://www.cdac.in/), Pune, India
+The work was formally presented as scientific poster in *[Accelerating biology-2018](https://cdac.in/index.aspx?id=ev_symposium_2018)* symposium held during Jan, 9-11, 2018 at [C-DAC](https://www.cdac.in/), Pune, India
 
 ![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/cdac-poster_04_dec_2017.png?raw=true "Poster presentation")
 
