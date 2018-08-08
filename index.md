@@ -1,6 +1,6 @@
 ![](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/xcelris-new-logo-png-file.png?raw=true)
 
-
+<img align="center" width="200" height="200" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/xcelris-new-logo-png-file.png?raw=true>
 
 
 
