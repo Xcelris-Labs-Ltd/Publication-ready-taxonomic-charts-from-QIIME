@@ -82,11 +82,11 @@ This script is released under [GNU GENERAL PUBLIC LICENSE](https://github.com/Xc
 **Developed by -**
 **Vijay Lakhujani:**
 
-<img align="left" width="100" height="100" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/vijay_lakhujani.jpg?raw=true">
+<img align="left" width="200" height="200" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/vijay_lakhujani.jpg?raw=true">
 
-#### Project Scientist, Bioinformatics:
-#### NGS division, Xcelris Labs Ltd:
-#### vijay.lakhujani@xcelrislabs.com:
+Project Scientist, Bioinformatics
+NGS division, Xcelris Labs Ltd
+vijay.lakhujani@xcelrislabs.com
 
 **Let's connect!**
 
