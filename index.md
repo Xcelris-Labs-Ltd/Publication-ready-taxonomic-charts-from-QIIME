@@ -80,8 +80,9 @@ This script is released under [GNU GENERAL PUBLIC LICENSE](https://github.com/Xc
 ## Development and Maintenance
 
 **Developed by -**
-**Vijay Lakhujani:** ![Vijay Lakhujani](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/vijay_lakhujani.jpg?raw=true)
+**Vijay Lakhujani:**
 
+<img align="left" width="100" height="100" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/vijay_lakhujani.jpg?raw=true">
 
 #### Project Scientist, Bioinformatics:
 #### NGS division, Xcelris Labs Ltd:
