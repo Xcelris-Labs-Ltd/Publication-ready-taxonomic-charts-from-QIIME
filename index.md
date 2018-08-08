@@ -85,7 +85,9 @@ This script is released under [GNU GENERAL PUBLIC LICENSE](https://github.com/Xc
 **Developed by -**
 [**Vijay Lakhujani**](https://in.linkedin.com/in/lakhujanivijay)
 
-Project Scientist . Bioinformatics . NGS division . Xcelris Labs Ltd . vijay.lakhujani@xcelrislabs.com
+#### Project Scientist, Bioinformatics
+#### NGS division, Xcelris Labs Ltd
+#### vijay.lakhujani@xcelrislabs.com
 
 **Let's connect!**
 
