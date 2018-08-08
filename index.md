@@ -82,9 +82,9 @@ This script is released under [GNU GENERAL PUBLIC LICENSE](https://github.com/Xc
 ![Vijay Lakhujani](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/vijay_lakhujani.jpg?raw=true)
 
 
-**Developed by -** [**Vijay Lakhujani**](https://in.linkedin.com/in/lakhujanivijay)
+**Developed by -** [**Vijay Lakhujani**](https://in.linkedin.com/in/lakhujanivijay) **[Project Scientist, Bioinformatics]**
 
-vijay.lakhujani@xcelrislabs.com **[Project Scientist, Bioinformatics]**
+vijay.lakhujani@xcelrislabs.com 
 
 **Let's connect!**
 
