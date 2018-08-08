@@ -79,6 +79,7 @@ This script is released under [GNU GENERAL PUBLIC LICENSE](https://github.com/Xc
 
 ## Development and Maintenance
 
+**Vijay Lakhujani:**
 ![Vijay Lakhujani](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/vijay_lakhujani.jpg?raw=true)
 
 
