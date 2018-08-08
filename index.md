@@ -1,7 +1,5 @@
 <img align="left" width="200" height="80" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/xcelris-new-logo-png-file.png?raw=true">
 
----
-
 ## Welcome to Xcelris Labs Ltd. GitHub (by Bioinformatics division)
 
 ---
