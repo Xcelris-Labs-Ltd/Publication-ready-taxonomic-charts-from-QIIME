@@ -94,13 +94,13 @@ This script is released under [GNU GENERAL PUBLIC LICENSE](https://github.com/Xc
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon)
 [4.1]: https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/LinkedIn.png?raw=true (linkedin icon)
 
 
 [1]: http://www.twitter.com/vijay_lakhujani
 [2]: http://www.facebook.com/mylifepages
-[3]: https://plus.google.com/+VIJAYLAKHUJANI
+[3]: https://github.com/lakhujanivijay
 [4]: https://in.linkedin.com/in/lakhujanivijay
 
 
