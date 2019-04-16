@@ -49,8 +49,41 @@ Prerequisites for `prepare_taxa_charts.py`
 #### License
 This script is released under GNU GENERAL PUBLIC LICENSE, v3, 29 June 2007
 
-#### Author:
-Vijay Lakhujani  (c) 2016 | Xcleris Labs Ltd.
+## Development and Maintenance
+
+**Developed by -**
+**Vijay Lakhujani:**
+
+<img align="left" width="200" height="200" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/vijay_lakhujani.jpg?raw=true">
+
+ Project Scientist, Bioinformatics
+
+ NGS division, Xcelris Labs Ltd
+
+ vijay.lakhujani@xcelrislabs.com
+
+
+
+
+---
+
+**Let's connect!**
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon)
+[4.1]: https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/LinkedIn.png?raw=true (linkedin icon)
+
+
+[1]: http://www.twitter.com/vijay_lakhujani
+[2]: http://www.facebook.com/mylifepages
+[3]: https://github.com/lakhujanivijay
+[4]: https://in.linkedin.com/in/lakhujanivijay
 
 #### Full Details
 Click [here](https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/gh-pages/index.md)
